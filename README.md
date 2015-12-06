@@ -16,6 +16,12 @@ Create a base16 converter =)
 ### Installation
 ```
 git clone git@github.com:KaoruDev/mentoring-ruby-algorithm-base16.git
+bundle install
+```
+
+### Run Specs
+```
+bundle exec rspec
 ```
 
 
